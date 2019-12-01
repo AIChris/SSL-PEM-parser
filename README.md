@@ -30,4 +30,5 @@ python parse_pem_ssl.py 8.8.8.8.pem
 Serial;		certbefore;		Certafter		numberOfCN	Level;			File
 326357..1561;	2019-11-05 00:00:00;	2020-01-28 00:00:00;	11;		INFO expires day ;59;	8.8.8.8.pem;;dns.google;GTS CA 1O1
 
-
+Exampel:
+https://github.com/AIChris/SSL-PEM-parser/blob/master/1.png
