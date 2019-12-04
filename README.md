@@ -32,3 +32,6 @@ Serial;		certbefore;		Certafter		numberOfCN	Level;			File
 
 Exampel:
 https://github.com/AIChris/SSL-PEM-parser/blob/master/1.png
+
+show subject alternative name
+https://github.com/AIChris/SSL-PEM-parser/blob/master/1.png
