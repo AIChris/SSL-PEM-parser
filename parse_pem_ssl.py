@@ -17,6 +17,7 @@ KGREEN = '\x1B[32m'
 KYELLOW = '\x1B[33m'
 KNORM = '\033[0m'
 
+
 PRINT_subjectAltName 	= False
 PRINT_ERROR 			= False
 NumberOfCN				= 0
